@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/CEH-Quiz/precache-manifest.359c518367f20bbfc6e11f1bdc021cc7.js"
+  "/CEH-Quiz/precache-manifest.ea555f77ba08112ca3e6494ca639a063.js"
 );
 
 self.addEventListener('message', (event) => {
