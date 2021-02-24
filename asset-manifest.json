@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/CEH-Quiz/static/css/main.8012bc9e.chunk.css",
-    "main.js": "/CEH-Quiz/static/js/main.6168017c.chunk.js",
-    "main.js.map": "/CEH-Quiz/static/js/main.6168017c.chunk.js.map",
+    "main.css": "/CEH-Quiz/static/css/main.da3346d8.chunk.css",
+    "main.js": "/CEH-Quiz/static/js/main.d9d923ba.chunk.js",
+    "main.js.map": "/CEH-Quiz/static/js/main.d9d923ba.chunk.js.map",
     "runtime-main.js": "/CEH-Quiz/static/js/runtime-main.5585de84.js",
     "runtime-main.js.map": "/CEH-Quiz/static/js/runtime-main.5585de84.js.map",
-    "static/js/2.0de38498.chunk.js": "/CEH-Quiz/static/js/2.0de38498.chunk.js",
-    "static/js/2.0de38498.chunk.js.map": "/CEH-Quiz/static/js/2.0de38498.chunk.js.map",
+    "static/js/2.44641fb5.chunk.js": "/CEH-Quiz/static/js/2.44641fb5.chunk.js",
+    "static/js/2.44641fb5.chunk.js.map": "/CEH-Quiz/static/js/2.44641fb5.chunk.js.map",
     "index.html": "/CEH-Quiz/index.html",
-    "precache-manifest.fe3b60b778caf4becc5cbd0772a11050.js": "/CEH-Quiz/precache-manifest.fe3b60b778caf4becc5cbd0772a11050.js",
+    "precache-manifest.2ef5a5d414f9f687c4f8a5071b2b53ed.js": "/CEH-Quiz/precache-manifest.2ef5a5d414f9f687c4f8a5071b2b53ed.js",
     "service-worker.js": "/CEH-Quiz/service-worker.js",
-    "static/css/main.8012bc9e.chunk.css.map": "/CEH-Quiz/static/css/main.8012bc9e.chunk.css.map",
-    "static/js/2.0de38498.chunk.js.LICENSE.txt": "/CEH-Quiz/static/js/2.0de38498.chunk.js.LICENSE.txt"
+    "static/css/main.da3346d8.chunk.css.map": "/CEH-Quiz/static/css/main.da3346d8.chunk.css.map",
+    "static/js/2.44641fb5.chunk.js.LICENSE.txt": "/CEH-Quiz/static/js/2.44641fb5.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.5585de84.js",
-    "static/js/2.0de38498.chunk.js",
-    "static/css/main.8012bc9e.chunk.css",
-    "static/js/main.6168017c.chunk.js"
+    "static/js/2.44641fb5.chunk.js",
+    "static/css/main.da3346d8.chunk.css",
+    "static/js/main.d9d923ba.chunk.js"
   ]
 }
