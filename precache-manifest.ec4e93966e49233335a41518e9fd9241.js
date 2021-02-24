@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3e27912f5cff8c88d4cbd1adb8808fa9",
+    "revision": "845034e410fe28cab910ebce4e41c07b",
     "url": "/CEH-Quiz/index.html"
   },
   {
-    "revision": "e005492de6d69c469a77",
-    "url": "/CEH-Quiz/static/css/main.da3346d8.chunk.css"
+    "revision": "21463138e9a7cea64c70",
+    "url": "/CEH-Quiz/static/css/main.a210e086.chunk.css"
   },
   {
     "revision": "65f22cc24e062c623f3a",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/CEH-Quiz/static/js/2.44641fb5.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e005492de6d69c469a77",
+    "revision": "21463138e9a7cea64c70",
     "url": "/CEH-Quiz/static/js/main.d9d923ba.chunk.js"
   },
   {
